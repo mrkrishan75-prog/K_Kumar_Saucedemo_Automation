@@ -7,4 +7,3 @@ print(joke)
 
 """
 so thanks that is my program
-"""
